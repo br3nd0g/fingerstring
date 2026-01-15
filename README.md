@@ -24,3 +24,7 @@ Also for MIDI ports then add python port as in for track and remote.
 Use the same ableton live project I created (found within this repository) abletonSet Project > abletonSet.als 
 
 And should work!!!!
+
+## Example video
+
+![Example video](https://github.com/br3nd0g/fingerstring/main/exampleVideo.mp4)
