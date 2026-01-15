@@ -27,4 +27,4 @@ And should work!!!!
 
 ## Example video
 
-![Example video](https://github.com/br3nd0g/fingerstring/main/exampleVideo.mp4)
+![Example video](https://github.com/br3nd0g/fingerstring/blob/main/exampleVideo.mp4)
